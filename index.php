@@ -27,7 +27,7 @@ while($fila = $resultado->fetch_assoc()){
 	<div class="clearfix"></div>
 	<nav>
 		<ul>
-			<a href="#"><li>Menú 1</li></a>
+			<a href="#"><li>Menú 1 A</li></a>
 			<a href="#"><li>Menú 2</li></a>
 			<a href="#"><li>Menú 3</li></a>
 		</ul>
